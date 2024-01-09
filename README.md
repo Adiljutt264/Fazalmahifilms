@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# FazalMahiFilms
+Fazal Mahi, a renowned photographer, presents FazalMahiFilms — a distinguished brand with a substantial Instagram following. Fazal Mahi specializes in capturing the essence of weddings and events through his lens. I was honored to make an app for him and i decided to contribute to open source community free feel to use this code. This is a very simple app feel free to enhance and contribute.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features 
+### Portfolio Showcase:
+Display best work with a stunning portfolio section, showcasing  expertise and unique style.
 
-## Available Scripts
+### Get a quote:
+Simplify the get a quote form for clients.
 
-In the project directory, you can run:
+### Client Galleries:
+High-resolution images and videos securely with clients through dedicated galleries. Maintain professionalism while keeping your work easily accessible.
 
-### `npm start`
+### Responsive Design:
+A mobile-friendly layout THAT ensures that portfolio looks impressive on any device, allowing potential clients to explore work seamlessly.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Contribute:
+I welcome contributions from the community to enhance and improve FazalmahiFilms. Whether you're a developer, designer, or have valuable insights to share, we'd love to have you on board! Here's how you can contribute
 
-### `npm test`
+### Bug Reports:
+Report any issues you encounter to help us improve the app's stability and performance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Feature Requests:
+Suggest new features or enhancements that would benefit wedding and event photographers.
 
-### `npm run build`
+### Code Contributions:
+If you're a developer, feel free to submit pull requests for bug fixes, new features, or improvements.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Getting Started:
+Clone the repository.
+Install dependencies using "npm install".
+Start the development server with "npm start".
+Packages used are framer-motion for animations, react-icons, react-router-dom and SAAS.
