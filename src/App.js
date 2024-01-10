@@ -1,8 +1,10 @@
 import "./Styles/App.scss"
+import Intro from "./Components/Intro";
 function App() {
   return (
-    <div className="App"> FazalMahiFilms
-    </div>
+    <>
+      <Intro />
+    </>
   );
 }
 
